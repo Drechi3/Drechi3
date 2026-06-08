@@ -1,28 +1,12 @@
-\# Igboanugo David Ugochukwu
+\# David Ugochukwu
 
 
 
-\## Technical Writer — Cybersecurity | APIs | AI Systems
+\## Technical Writer | Cybersecurity • APIs • AI Systems
 
 
 
-> I translate complex technical systems into clear, usable, production-ready understanding for engineers and security teams.
-
-
-
-\---
-
-
-
-\## 🚀 What I Do
-
-
-
-I help engineering teams and technical products become \*\*clear, secure, and scalable\*\* through structured documentation.
-
-
-
-My work focuses on engineering clarity, not just writing documentation.
+> I turn complex technical systems into clear, structured, production-ready documentation for engineering teams.
 
 
 
@@ -30,19 +14,29 @@ My work focuses on engineering clarity, not just writing documentation.
 
 
 
-\## 🧠 Core Expertise
+\## 🧠 About Me
 
 
 
-\- Cybersecurity systems \& threat concepts
+I work at the intersection of systems thinking and technical communication — translating cybersecurity, API, and AI systems into documentation that improves understanding, security, and implementation speed.
 
-\- API architecture \& documentation
+
+
+\---
+
+
+
+\## ⚙️ What I Specialize In
+
+
+
+\- Cybersecurity systems \& threat modeling
+
+\- API architecture \& documentation design
 
 \- AI / ML system explanation
 
-\- Developer documentation design
-
-\- Technical knowledge structuring
+\- Developer documentation engineering
 
 
 
@@ -50,27 +44,17 @@ My work focuses on engineering clarity, not just writing documentation.
 
 
 
-\# SentinelIQ
+\## 🚀 Flagship Work
 
 
 
-\## Cybersecurity Intelligence \& Threat Modeling System
+\### 🔐 SentinelIQ
+
+A cybersecurity intelligence system focused on attack surface modeling and vulnerability reasoning before deployment.
 
 
 
-SentinelIQ is a structured system designed to model attack surfaces, simulate vulnerabilities, and generate structured security insights for modern applications.
-
-
-
-\---
-
-
-
-\## 🧠 Core Idea
-
-Traditional security tools detect issues.  
-
-SentinelIQ focuses on \*\*understanding how systems can be broken before they are built.\*\*
+It focuses on understanding how systems can be broken before they are deployed.
 
 
 
@@ -78,15 +62,13 @@ SentinelIQ focuses on \*\*understanding how systems can be broken before they ar
 
 
 
-\## 🔐 Focus Areas
+\### 🔌 API Security Knowledge Base
 
-\- Threat surface mapping
+A structured documentation system covering modern API security in distributed systems.
 
-\- Vulnerability reasoning
 
-\- System behavior analysis
 
-\- AI-assisted security interpretation
+Covers authentication, authorization, rate limiting, and secure API design patterns.
 
 
 
@@ -94,25 +76,17 @@ SentinelIQ focuses on \*\*understanding how systems can be broken before they ar
 
 
 
-\## ⚙️ Use Case
-
-Designed for:
-
-\- Security engineers
-
-\- API developers
-
-\- System architects
+\## 🧠 Thinking Style
 
 
 
-\---
+\- Systems before syntax
 
+\- Clarity before complexity
 
+\- Structure before explanation
 
-\## 📌 Status
-
-Concept / Early system design stage
+\- Real-world usability over theory
 
 
 
@@ -124,7 +98,7 @@ Concept / Early system design stage
 
 
 
-!\[GitHub stats](https://github-readme-stats.vercel.app/api?username=drechi3\&show\_icons=true\&theme=default)
+!\[GitHub stats](https://github-readme-stats.vercel.app/api?username=drechi3\&show\_icons=true\&theme=tokyonight)
 
 
 
@@ -136,7 +110,19 @@ Concept / Early system design stage
 
 
 
-\*\*Email:\*\* drechimayne@gmail.com  
+Email: drechimayne@gmail.com  
 
-\*\*LinkedIn:\*\* https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b
+LinkedIn: https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b
+
+
+
+\---
+
+
+
+\## 📌 GitHub
+
+
+
+https://github.com/drechi3
 
