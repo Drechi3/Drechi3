@@ -1,98 +1,56 @@
-\ David Ugochukwu
+# David Ugochukwu
 
+Technical Documentation Engineer | DevSecOps • API Security • Cloud Security • AI Systems
 
+---
 
-Technical Documentation Engineer | DevSecOps • API Security • Cloud Security
+I design structured documentation for complex engineering systems — making cybersecurity, APIs, and AI systems understandable, secure, and implementable.
 
+---
 
+## Core Focus
 
-\---
+Cybersecurity systems & threat modeling  
+API architecture & security documentation  
+AI / ML system explanation  
+Developer documentation engineering  
 
+---
 
+## SentinelIQ
 
-I turn complex technical systems into clear, structured, production-ready documentation for engineering teams.
+SentinelIQ is a cybersecurity intelligence system designed to model how systems can be attacked before deployment.
 
+It focuses on:
+- Attack surface mapping
+- Vulnerability reasoning
+- System behavior analysis
+- Security-first design thinking
 
+---
 
-\---
+## API Security Knowledge Base
 
+A structured documentation system for modern API security in distributed systems.
 
+It covers:
+- Authentication & authorization
+- Rate limiting strategies
+- API abuse prevention
+- Secure system design patterns
 
-\ About
+---
 
+## Thinking Approach
 
+Complex systems fail when they are not structured clearly.
 
-I work at the intersection of cybersecurity, APIs, and AI systems — translating complex engineering systems into usable documentation that improves understanding, security, and implementation speed.
+My work focuses on turning complexity into usable engineering understanding.
 
+---
 
-
-\---
-
-
-
-\ Core Focus
-
-
-
-\- Cybersecurity systems \& threat modeling  
-
-\- API architecture \& documentation design  
-
-\- AI / ML system explanation  
-
-\- Developer documentation engineering  
-
-
-
-\---
-
-
-
-\ Flagship Work
-
-
-
-\ SentinelIQ
-
-A cybersecurity intelligence system focused on attack surface modeling and vulnerability reasoning before deployment.
-
-
-
-\ API Security Knowledge Base
-
-A structured system for documenting modern API security in distributed systems.
-
-
-
-\---
-
-
-
-\ Thinking Style
-
-
-
-\- Systems before syntax  
-
-\- Clarity before complexity  
-
-\- Structure before explanation  
-
-\- Real-world usability over theory  
-
-
-
-\---
-
-
-
-\ Contact
-
-
+## Contact
 
 Email: drechimayne@gmail.com  
-
 LinkedIn: https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b  
-
 GitHub: https://github.com/drechi3
-
