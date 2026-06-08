@@ -1,4 +1,4 @@
-\# David Ugochukwu
+\ David Ugochukwu
 
 
 
@@ -18,7 +18,7 @@ I turn complex technical systems into clear, structured, production-ready docume
 
 
 
-\## About
+\ About
 
 
 
@@ -30,7 +30,7 @@ I work at the intersection of cybersecurity, APIs, and AI systems — translatin
 
 
 
-\## Core Focus
+\ Core Focus
 
 
 
@@ -48,17 +48,17 @@ I work at the intersection of cybersecurity, APIs, and AI systems — translatin
 
 
 
-\## Flagship Work
+\ Flagship Work
 
 
 
-\### SentinelIQ
+\ SentinelIQ
 
 A cybersecurity intelligence system focused on attack surface modeling and vulnerability reasoning before deployment.
 
 
 
-\### API Security Knowledge Base
+\ API Security Knowledge Base
 
 A structured system for documenting modern API security in distributed systems.
 
@@ -68,7 +68,7 @@ A structured system for documenting modern API security in distributed systems.
 
 
 
-\## Thinking Style
+\ Thinking Style
 
 
 
@@ -86,7 +86,7 @@ A structured system for documenting modern API security in distributed systems.
 
 
 
-\## Contact
+\ Contact
 
 
 
