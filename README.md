@@ -1,10 +1,10 @@
 # David Ugochukwu
 
-Technical Documentation Engineer | DevSecOps • API Security • Cloud Security • AI Systems
+Security Documentation Engineer | DevSecOps • API Security • Cloud Security • AI Systems
 
 ---
 
-I design structured documentation for complex engineering systems — making cybersecurity, APIs, and AI systems understandable, secure, and implementable.
+I build structured understanding systems for complex engineering environments — helping teams reason about security, APIs, and system behavior before production.
 
 ---
 
@@ -17,15 +17,18 @@ Developer documentation engineering
 
 ---
 
-## SentinelIQ
+## SentinelIQ — Security Reasoning System
 
-SentinelIQ is a cybersecurity intelligence system designed to model how systems can be attacked before deployment.
+SentinelIQ is a security reasoning framework that models how systems can be attacked before deployment.
 
 It focuses on:
-- Attack surface mapping
-- Vulnerability reasoning
-- System behavior analysis
-- Security-first design thinking
+
+- Attack surface mapping  
+- Vulnerability reasoning paths  
+- System behavior analysis  
+- Security-first architecture thinking  
+
+It is not just a project — it is a way of thinking about system security.
 
 ---
 
@@ -34,10 +37,11 @@ It focuses on:
 A structured documentation system for modern API security in distributed systems.
 
 It covers:
-- Authentication & authorization
-- Rate limiting strategies
-- API abuse prevention
-- Secure system design patterns
+
+- Authentication & authorization  
+- Rate limiting strategies  
+- API abuse prevention  
+- Secure system design patterns  
 
 ---
 
