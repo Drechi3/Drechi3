@@ -2,11 +2,7 @@
 
 
 
-\## Technical Writer | Cybersecurity • APIs • AI Systems
-
-
-
-> I turn complex technical systems into clear, structured, production-ready documentation for engineering teams.
+Technical Documentation Engineer | DevSecOps • API Security • Cloud Security
 
 
 
@@ -14,11 +10,7 @@
 
 
 
-\## 🧠 About Me
-
-
-
-I work at the intersection of systems thinking and technical communication — translating cybersecurity, API, and AI systems into documentation that improves understanding, security, and implementation speed.
+I turn complex technical systems into clear, structured, production-ready documentation for engineering teams.
 
 
 
@@ -26,17 +18,11 @@ I work at the intersection of systems thinking and technical communication — t
 
 
 
-\## ⚙️ What I Specialize In
+\## About
 
 
 
-\- Cybersecurity systems \& threat modeling
-
-\- API architecture \& documentation design
-
-\- AI / ML system explanation
-
-\- Developer documentation engineering
+I work at the intersection of cybersecurity, APIs, and AI systems — translating complex engineering systems into usable documentation that improves understanding, security, and implementation speed.
 
 
 
@@ -44,17 +30,37 @@ I work at the intersection of systems thinking and technical communication — t
 
 
 
-\## 🚀 Flagship Work
+\## Core Focus
 
 
 
-\### 🔐 SentinelIQ
+\- Cybersecurity systems \& threat modeling  
+
+\- API architecture \& documentation design  
+
+\- AI / ML system explanation  
+
+\- Developer documentation engineering  
+
+
+
+\---
+
+
+
+\## Flagship Work
+
+
+
+\### SentinelIQ
 
 A cybersecurity intelligence system focused on attack surface modeling and vulnerability reasoning before deployment.
 
 
 
-It focuses on understanding how systems can be broken before they are deployed.
+\### API Security Knowledge Base
+
+A structured system for documenting modern API security in distributed systems.
 
 
 
@@ -62,31 +68,17 @@ It focuses on understanding how systems can be broken before they are deployed.
 
 
 
-\### 🔌 API Security Knowledge Base
-
-A structured documentation system covering modern API security in distributed systems.
+\## Thinking Style
 
 
 
-Covers authentication, authorization, rate limiting, and secure API design patterns.
+\- Systems before syntax  
 
+\- Clarity before complexity  
 
+\- Structure before explanation  
 
-\---
-
-
-
-\## 🧠 Thinking Style
-
-
-
-\- Systems before syntax
-
-\- Clarity before complexity
-
-\- Structure before explanation
-
-\- Real-world usability over theory
+\- Real-world usability over theory  
 
 
 
@@ -94,35 +86,13 @@ Covers authentication, authorization, rate limiting, and secure API design patte
 
 
 
-\## 📊 GitHub Stats
-
-
-
-!\[GitHub stats](https://github-readme-stats.vercel.app/api?username=drechi3\&show\_icons=true\&theme=tokyonight)
-
-
-
-\---
-
-
-
-\## 📫 Contact
+\## Contact
 
 
 
 Email: drechimayne@gmail.com  
 
-LinkedIn: https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b
+LinkedIn: https://www.linkedin.com/in/igboanugo-david-ugochukwu-73136220b  
 
-
-
-\---
-
-
-
-\## 📌 GitHub
-
-
-
-https://github.com/drechi3
+GitHub: https://github.com/drechi3
 
